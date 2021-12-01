@@ -32,6 +32,7 @@ class VyS3Parameters(VyBaseParameters):
         raise NotImplementedError()
 
     def from_h5(self, **kwargs):
+
         raise NotImplementedError()
 
 

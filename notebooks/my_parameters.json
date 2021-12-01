@@ -1,0 +1,996 @@
+{
+    "oe0.BENER": {
+        "name": "oe0.BENER",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.CONE_MAX": {
+        "name": "oe0.CONE_MAX",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.CONE_MIN": {
+        "name": "oe0.CONE_MIN",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.CONV_FACT": {
+        "name": "oe0.CONV_FACT",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.DUMMY": {
+        "name": "oe0.DUMMY",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.EPSI_DX": {
+        "name": "oe0.EPSI_DX",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.EPSI_DZ": {
+        "name": "oe0.EPSI_DZ",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.EPSI_X": {
+        "name": "oe0.EPSI_X",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.EPSI_Z": {
+        "name": "oe0.EPSI_Z",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.FDISTR": {
+        "name": "oe0.FDISTR",
+        "unit": null,
+        "comment": null,
+        "value": 3,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.FGRID": {
+        "name": "oe0.FGRID",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.FILE_BOUND": {
+        "name": "oe0.FILE_BOUND",
+        "unit": null,
+        "comment": null,
+        "value": "",
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.FILE_SOURCE": {
+        "name": "oe0.FILE_SOURCE",
+        "unit": null,
+        "comment": null,
+        "value": "",
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.FILE_TRAJ": {
+        "name": "oe0.FILE_TRAJ",
+        "unit": null,
+        "comment": null,
+        "value": "",
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.FSOUR": {
+        "name": "oe0.FSOUR",
+        "unit": null,
+        "comment": null,
+        "value": 3,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.FSOURCE_DEPTH": {
+        "name": "oe0.FSOURCE_DEPTH",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_BOUND_SOUR": {
+        "name": "oe0.F_BOUND_SOUR",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_COHER": {
+        "name": "oe0.F_COHER",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_COLOR": {
+        "name": "oe0.F_COLOR",
+        "unit": null,
+        "comment": null,
+        "value": 3,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_NEW": {
+        "name": "oe0.F_NEW",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_OPD": {
+        "name": "oe0.F_OPD",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_PHOT": {
+        "name": "oe0.F_PHOT",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_POL": {
+        "name": "oe0.F_POL",
+        "unit": null,
+        "comment": null,
+        "value": 3,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_POLAR": {
+        "name": "oe0.F_POLAR",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_SR_TYPE": {
+        "name": "oe0.F_SR_TYPE",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.F_WIGGLER": {
+        "name": "oe0.F_WIGGLER",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.HDIV1": {
+        "name": "oe0.HDIV1",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.HDIV2": {
+        "name": "oe0.HDIV2",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_VX": {
+        "name": "oe0.IDO_VX",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_VZ": {
+        "name": "oe0.IDO_VZ",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_XL": {
+        "name": "oe0.IDO_XL",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_XN": {
+        "name": "oe0.IDO_XN",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_X_S": {
+        "name": "oe0.IDO_X_S",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_Y_S": {
+        "name": "oe0.IDO_Y_S",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_ZL": {
+        "name": "oe0.IDO_ZL",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_ZN": {
+        "name": "oe0.IDO_ZN",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDO_Z_S": {
+        "name": "oe0.IDO_Z_S",
+        "unit": null,
+        "comment": null,
+        "value": 1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.IDUMMY": {
+        "name": "oe0.IDUMMY",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.ISTAR1": {
+        "name": "oe0.ISTAR1",
+        "unit": null,
+        "comment": null,
+        "value": 6775431,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.NCOL": {
+        "name": "oe0.NCOL",
+        "unit": null,
+        "comment": null,
+        "value": 18,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.NPOINT": {
+        "name": "oe0.NPOINT",
+        "unit": null,
+        "comment": null,
+        "value": 10000,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.NTOTALPOINT": {
+        "name": "oe0.NTOTALPOINT",
+        "unit": null,
+        "comment": null,
+        "value": 10000000,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.N_CIRCLE": {
+        "name": "oe0.N_CIRCLE",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.N_COLOR": {
+        "name": "oe0.N_COLOR",
+        "unit": null,
+        "comment": null,
+        "value": 2,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.N_CONE": {
+        "name": "oe0.N_CONE",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.OE_NUMBER": {
+        "name": "oe0.OE_NUMBER",
+        "unit": null,
+        "comment": null,
+        "value": 0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH1": {
+        "name": "oe0.PH1",
+        "unit": null,
+        "comment": null,
+        "value": 8799.999,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH10": {
+        "name": "oe0.PH10",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH2": {
+        "name": "oe0.PH2",
+        "unit": null,
+        "comment": null,
+        "value": 8799.999,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH3": {
+        "name": "oe0.PH3",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH4": {
+        "name": "oe0.PH4",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH5": {
+        "name": "oe0.PH5",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH6": {
+        "name": "oe0.PH6",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH7": {
+        "name": "oe0.PH7",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH8": {
+        "name": "oe0.PH8",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PH9": {
+        "name": "oe0.PH9",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.PLASMA_ANGLE": {
+        "name": "oe0.PLASMA_ANGLE",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.POL_ANGLE": {
+        "name": "oe0.POL_ANGLE",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.POL_DEG": {
+        "name": "oe0.POL_DEG",
+        "unit": null,
+        "comment": null,
+        "value": 1.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL1": {
+        "name": "oe0.RL1",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL10": {
+        "name": "oe0.RL10",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL2": {
+        "name": "oe0.RL2",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL3": {
+        "name": "oe0.RL3",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL4": {
+        "name": "oe0.RL4",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL5": {
+        "name": "oe0.RL5",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL6": {
+        "name": "oe0.RL6",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL7": {
+        "name": "oe0.RL7",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL8": {
+        "name": "oe0.RL8",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.RL9": {
+        "name": "oe0.RL9",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.R_ALADDIN": {
+        "name": "oe0.R_ALADDIN",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.R_MAGNET": {
+        "name": "oe0.R_MAGNET",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGDIX": {
+        "name": "oe0.SIGDIX",
+        "unit": null,
+        "comment": null,
+        "value": 4.728541797631135e-06,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGDIZ": {
+        "name": "oe0.SIGDIZ",
+        "unit": null,
+        "comment": null,
+        "value": 4.095010077148124e-06,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGMAX": {
+        "name": "oe0.SIGMAX",
+        "unit": null,
+        "comment": null,
+        "value": 0.0015810951361940363,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGMAY": {
+        "name": "oe0.SIGMAY",
+        "unit": null,
+        "comment": null,
+        "value": 0.001,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGMAZ": {
+        "name": "oe0.SIGMAZ",
+        "unit": null,
+        "comment": null,
+        "value": 0.0006681031579752021,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL1": {
+        "name": "oe0.SIGXL1",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL10": {
+        "name": "oe0.SIGXL10",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL2": {
+        "name": "oe0.SIGXL2",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL3": {
+        "name": "oe0.SIGXL3",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL4": {
+        "name": "oe0.SIGXL4",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL5": {
+        "name": "oe0.SIGXL5",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL6": {
+        "name": "oe0.SIGXL6",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL7": {
+        "name": "oe0.SIGXL7",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL8": {
+        "name": "oe0.SIGXL8",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGXL9": {
+        "name": "oe0.SIGXL9",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL1": {
+        "name": "oe0.SIGZL1",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL10": {
+        "name": "oe0.SIGZL10",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL2": {
+        "name": "oe0.SIGZL2",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL3": {
+        "name": "oe0.SIGZL3",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL4": {
+        "name": "oe0.SIGZL4",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL5": {
+        "name": "oe0.SIGZL5",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL6": {
+        "name": "oe0.SIGZL6",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL7": {
+        "name": "oe0.SIGZL7",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL8": {
+        "name": "oe0.SIGZL8",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.SIGZL9": {
+        "name": "oe0.SIGZL9",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.VDIV1": {
+        "name": "oe0.VDIV1",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.VDIV2": {
+        "name": "oe0.VDIV2",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.WXSOU": {
+        "name": "oe0.WXSOU",
+        "unit": null,
+        "comment": null,
+        "value": 0.1,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.WYSOU": {
+        "name": "oe0.WYSOU",
+        "unit": null,
+        "comment": null,
+        "value": 0.2,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe0.WZSOU": {
+        "name": "oe0.WZSOU",
+        "unit": null,
+        "comment": null,
+        "value": 0.2,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.ALFA": {
+        "name": "oe1.ALFA",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.ALPHA": {
+        "name": "oe1.ALPHA",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.ALPHA_I": {
+        "name": "oe1.ALPHA_I",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.ALPHA_S": {
+        "name": "oe1.ALPHA_S",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.AXMAJ": {
+        "name": "oe1.AXMAJ",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.AXMIN": {
+        "name": "oe1.AXMIN",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.AZIM_FAN": {
+        "name": "oe1.AZIM_FAN",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.A_BRAGG": {
+        "name": "oe1.A_BRAGG",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.BLAZE": {
+        "name": "oe1.BLAZE",
+        "unit": null,
+        "comment": null,
+        "value": 0.0,
+        "legal_intervals": [],
+        "illegal_intervals": [],
+        "options": []
+    },
+    "oe1.CCC": {
+        "name": "oe1.CCC",
+        "unit": null,
+        "comment": null,
+        "value": 
